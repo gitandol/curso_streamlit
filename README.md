@@ -1,4 +1,4 @@
-# Guia para Baixar e Executar um Projeto Streamlit
+# Guia para Baixar e Executar o Projeto
 
 Este guia descreve o processo para baixar e executar um projeto Streamlit disponível no GitHub. Certifique-se de ter o Python 3.13.2 instalado.
 
