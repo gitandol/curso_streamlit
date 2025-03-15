@@ -14,6 +14,9 @@ def load_data():
     time.sleep(5)  # Simula um atraso no carregamento dos dados
     return pd.read_csv("01 Spotify.csv")  # Carrega o arquivo CSV contendo as músicas do Spotify
 
+# Adiciona um título principal à página
+st.markdown("# MUSIC STATISTICS")
+
 # Carrega os dados e os armazena em um DataFrame
 df = load_data()
 
